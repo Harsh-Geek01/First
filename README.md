@@ -1,4 +1,4 @@
 # First
-This is my first GITHUB Repo
+This is my first GIT Repo
 <Br>
-Author-Kumar Harsh
+Author - Kumar Harsh
